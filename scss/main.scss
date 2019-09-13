@@ -1,0 +1,7 @@
+$primary-color: #444;
+
+body {
+  background: $primary-color;
+  color: blue;
+  animation: slidein 3s linear 1s infinite alternate;
+}
